@@ -1,0 +1,10 @@
+[user]
+	email = 29693812+masiafrest@users.noreply.github.com
+	name = Jzz
+[alias]
+	st = status
+	cm = commit -m
+	co = checkout
+	acm = "!git add -A && git commit -m "
+[push]
+	autoSetupRemote = true
